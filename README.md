@@ -1,8 +1,8 @@
 <div align="center" size=""><img style="width: 250px;height: auto;" src="https://preview.redd.it/techies-day-today-raise-awareness-v0-vkem0xq4w34a1.gif?width=498&auto=webp&s=8df8d7e0c71abf45367d3959361b766131763796" alt="TECHIEEEES"></img></div>
 <div id="title" align="center"><h2>i dev the web and other stuff</h2><div>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/YouTube-YouTube?style=for-the-badge&color=red&link=youtube.com%2F%40ultcracker" alt="YouTube"/>
-  <img src="https://img.shields.io/badge/Steam-Steam?style=for-the-badge&color=darkblue&link=steamcommunity.com%2Fid%2Fultcracker" alt="Steam"/>
+  <img href="youtube.com%2F%40ultcracker" src="https://img.shields.io/badge/YouTube-YouTube?style=for-the-badge&color=red" alt="YouTube"/>
+  <img href="steamcommunity.com%2Fid%2Fultcracker" src="https://img.shields.io/badge/Steam-Steam?style=for-the-badge&color=darkblue" alt="Steam"/>
 </div>
 <div id="title" align="center"><h3>my langs</h3></h3><div>
   <div>
